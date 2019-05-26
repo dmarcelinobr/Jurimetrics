@@ -1,6 +1,6 @@
 ## Can we ever hope to predict Supreme Court decisions before they happen?
  
-##### Supporting Materials 
+#### Supporting Materials 
 
 - [A general approach for predicting the behavior of the Supreme Court of the United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389610/)
 
