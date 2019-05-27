@@ -17,7 +17,11 @@
 
 - [Commentary: Factors predicting family court decisions in high-conflict divorce](https://europepmc.org/abstract/med/23771935)
 
+- [Guessing Game: The Inexact Science Of High Court Predictions](https://www.law360.com/articles/844860/guessing-game-the-inexact-science-of-high-court-predictions)
+
 - [How to Forecast Constitutional Court Decisions? Legal Context and Political Context in a Machine Learning Framework](https://sebastiansternberg.github.io/pdf/forecasting_gfcc_sternberg.pdf)
+
+- [How To Read The Mind Of A Supreme Court Justice](https://fivethirtyeight.com/features/how-to-read-the-mind-of-a-supreme-court-justice/)
 
 - [Human Decisions and Machine Predictions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947971/)
 
