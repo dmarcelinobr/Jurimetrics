@@ -1,4 +1,4 @@
-# Legal Analytics  <img src="figures/jurimetrics.png" width="240px" align="right"/>
+# Legal Analytics  <img src="figures/jurimetrics.png" width="220px" align="right"/>
 
 ## Can we ever hope to predict Supreme Court decisions before they happen?
 
