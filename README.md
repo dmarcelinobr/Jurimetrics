@@ -1,5 +1,5 @@
-## Can we ever hope to predict Supreme Court decisions before they happen?
-<img src="figures/jurimetrics.png" width="240px" align="right" />
+## Can we ever hope to predict Supreme Court decisions before they happen?<img src="figures/jurimetrics.png" width="240px" align="left" />
+
  
 #### Supporting Materials 
 
