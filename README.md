@@ -13,6 +13,8 @@
 
 - [Artificial intelligence prevails at predicting Supreme Court decisions](https://www.sciencemag.org/news/2017/05/artificial-intelligence-prevails-predicting-supreme-court-decisions)
 
+- [Big data: legal firms play 'Moneyball'](https://www.ft.com/content/ca351ff6-1a4e-11e9-9e64-d150b3105d21)
+
 - [Competing Approaches to Predicting Supreme Court Decision Making](https://www.researchgate.net/publication/228498747_Competing_Approaches_to_Predicting_Supreme_Court_Decision_Making)
 
 - [Commentary: Factors predicting family court decisions in high-conflict divorce](https://europepmc.org/abstract/med/23771935)
@@ -26,6 +28,8 @@
 - [Human Decisions and Machine Predictions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947971/)
 
 - [Judicial Prediction and Analysis From Empirical Probability Tables](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=3635&context=ilj)
+
+- [Justice Blocks and Predictability of U.S. Supreme Court Votes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027188)
 
 - [Machine learning increases algorithm success rate that predicts decisions of the US Supreme Court](https://www.sciencemag.org/news/2017/05/artificial-intelligence-prevails-predicting-supreme-court-decisions)
 
